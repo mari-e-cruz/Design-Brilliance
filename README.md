@@ -1,2 +1,3 @@
 # Design-Brilliance
 Only the beginning...
+Im learning to code and set up my first website.
